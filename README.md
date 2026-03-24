@@ -1,4 +1,4 @@
-# Project-8-Linux-Audit
+# Project-8
 # Linux Hardening Audit Tool 🛡️
 
 ## Overview
